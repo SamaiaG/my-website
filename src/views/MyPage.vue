@@ -4,7 +4,7 @@
             <img src="../assets/circles.png" alt="circles" class="circles">
             <div class="name-and-position">
                 <h1>Samaia <br> Gahramanov</h1>
-                <h3 class="position">newbie developer</h3>
+                <h3 class="position">newbie developer lalalallalaal</h3>
             </div>
         </div>
     </base-card>
